@@ -1,6 +1,6 @@
 Name:		texlive-coolfn
-Version:	64639
-Release:	2
+Version:	69007
+Release:	1
 Summary:	Typeset long legal footnotes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coolfn
