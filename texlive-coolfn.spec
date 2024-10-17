@@ -3,7 +3,7 @@ Version:	69007
 Release:	1
 Summary:	Typeset long legal footnotes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coolfn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/coolfn
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coolfn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coolfn.doc.r%{version}.tar.xz
